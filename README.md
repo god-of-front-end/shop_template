@@ -43,4 +43,4 @@
 
 ## 深入学习uni
 [点击前往](https://uniapp.dcloud.io/)
-
+[更多优秀的插件](https://ext.dcloud.net.cn/)
