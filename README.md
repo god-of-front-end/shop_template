@@ -40,3 +40,7 @@
 ## 结语
 感谢uni-app给广大开发者带来的便利，想更加深入了解，可以到uni-app插件库查看。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;觉得这个插件好用，star~<br>
+
+## 深入学习uni
+[点击前往](https://uniapp.dcloud.io/)
+
