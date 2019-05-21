@@ -1,5 +1,5 @@
 # shop_template
-电商模板
+感谢作者MixR，开源这套电商模板。感谢uni开源了很多丰富的插件以及模板。
 
 ## 页面预览
 ![微信公众号](https://github.com/god-of-front-end/shop_template/blob/master/docImage/showTemplate1.jpg)
